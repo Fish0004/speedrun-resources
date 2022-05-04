@@ -1,0 +1,24 @@
+🔹 Map tập luyện One Cycle :
+https://sites.google.com/view/emma-practice-map/home
+
+🔹 Map Practice Bastion 1.16.1:
+https://github.com/LlamaPag/bastion
+🔹 Mod CẦN tải cho Speedrun 1.16+ :
+Sodium: https://mrmangohands.github.io/sodium-redirect/
+Lithium: https://mrmangohands.github.io/lithium-redirect/
+Starlight : https://github.com/PaperMC/Starlight/releases/tag/1.0.0-RC2
+Auto Reset : https://github.com/DuncanRuns/AutoResetMod/releases
+ Fast Reset : https://github.com/jan-leila/FastReset/releases/tag/1.16.1-1.4.0
+Nên sử dụng cả 3 mod này với Farbic Loader :
+https://fabricmc.net/use/
+Timer Mod: https://github.com/RedLime/SpeedRunIGT/releases
+
+🔹 Borderless : https://github.com/Mr-Technician/BorderlessMinecraft/releases
+
+🔹 Resource pack : Rayoh's Grass Overlay ( Được cho phép )
+https://www.mediafire.com/file/buoixjsalyjdti7/rayoh%2527s_grass_overlay.zip/file
+
+
+🔹 Tổng hợp tất cả các link generate FSG seed: https://docs.google.com/spreadsheets/d/1ilu72GJ-vJZq2LFU68rycGMeTbWPjHJnO8PGfp4QjA8/edit#gid=0
+
+🔹 NinjaBrain Bot ( Stronghold Calc ) : https://github.com/Ninjabrain1/Ninjabrain-Bot/releases 
